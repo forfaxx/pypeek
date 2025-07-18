@@ -26,4 +26,16 @@ I was frustrated trying to get a simple, structured view of some of my larger Py
 
 So I created this tool (originally called “cavepeek,” since it felt like a caveman approach!). But it’s proven extremely useful, so I’m sharing it in case it helps you too.
 
+## Usage
+
+```bash
+python3 pypeek.py some_script.py [--verbose]
+```
+
+## Requirements
+
+- Python 3 (3.7+ recommended)
+- No venv, no pip install—just one script!
+- Tested with python 3 on mac and linux
+
 
