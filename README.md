@@ -14,11 +14,6 @@ Python code structure introspector — lists classes, functions, docstrings, ent
 - Skips non-Python files
 - Optional verbose mode for conditionals
 
-## Usage
-
-```bash
-python3 pypeek.py some_script.py [--verbose]
-```
 
 ## Inspiration 
 
