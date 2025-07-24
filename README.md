@@ -33,4 +33,7 @@ python3 pypeek.py some_script.py [--verbose]
 - No venv, no pip install—just one script!
 - Tested with python 3 on mac and linux
 
+## More Info 
+
+Read the full intro and usage guide on [AdminJitsu](https://adminjitsu.com/posts/pypeek/)!
 
